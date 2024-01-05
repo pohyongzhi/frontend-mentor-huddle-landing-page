@@ -76,6 +76,7 @@ header img {
 .btn {
     margin: 0.5rem 0 3rem 0;
     color: var(--clr-p-violet);
+    background-color: white;
     border-style: none;
     border-radius: 1.5rem;
     padding: 0.75rem;
